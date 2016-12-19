@@ -1,12 +1,13 @@
 ## IDEs
-/.idea
+**/.idea
 
 ## Packages
-/node_modules
+**/node_modules
 
 ## Build configurations
-/debug
-/build
+**/debug
+**/build
+**/bin/
 
 ## OS generated files
 .DS_Store
