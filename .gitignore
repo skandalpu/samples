@@ -1,0 +1,15 @@
+## IDEs
+/.idea
+
+## Packages
+/node_modules
+
+## Build configurations
+/debug
+/build
+
+## OS generated files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+.ftppass
